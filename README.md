@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hulegcoding
+- 👀 I’m interested in cross platform app developing.
+- 🌱 I’m currently learning flutter
